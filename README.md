@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rovo1211
+- 👋 Hi, I’m Rovo1211
 - 👀 I’m interested in programming in VBA and PHP/MySQL.
 - 🌱 I’m currently learning to program in VBA
 - 💞️ I’m looking to collaborate on projects in Excel and Access, also with VBA
